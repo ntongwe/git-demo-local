@@ -16,4 +16,4 @@
 
 ### Link
 
-Markdown support links, like this one. to (Google)[https://google.com]
+Markdown support links, like this one. to [Google](https://google.com)
