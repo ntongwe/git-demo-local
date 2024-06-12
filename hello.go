@@ -5,7 +5,9 @@ package main
 import(fmt)
 
 func main() {
-	fmt.Println("Hello World!")
+    fmt.Println("Hello World!")
+    
+    fmt.Println("This code deos'nt have a bug!")
 
     // Define a list of integers
     numbers := []int{1, 2, 3, 4, 5}
