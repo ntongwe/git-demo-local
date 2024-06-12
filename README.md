@@ -14,6 +14,12 @@
 * Two
 * Three
 
-### Link
+### Link, clcik on it 
 
 Markdown support links, like this one. to [Google](https://google.com)
+
+### Text Formatting 
+
+    * <b>Bold Text</b>
+    * <i>italic Text</i>
+    * <u>Underline Text</u>
